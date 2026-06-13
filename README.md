@@ -8,15 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **Smart Research Assistant Project**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+- 📫 How to reach me **nijo2005n@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
